@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails hello_app: development" uuid="e2972239-2d42-4f93-9904-7f213066ce16">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+    </data-source>
+    <data-source name="Rails hello_app: test" uuid="36f3809e-f947-4efd-adb6-dfdaff8d54f8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+    </data-source>
+    <data-source name="Rails hello_app: production" uuid="328e6e0b-b33f-4acb-a33f-353374d5ce1d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>hello_app</user-name>
+    </data-source>
+  </component>
+</project>
